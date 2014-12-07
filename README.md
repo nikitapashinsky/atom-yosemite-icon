@@ -2,7 +2,7 @@ Atom icon for OS X Yosemite
 ===========================
 
 <p align="center">
-<img src="/img/preview.png" width="728" height="300">
+<img src="/img/preview.png" width="728">
 </p>
 
 ## Preview
@@ -10,7 +10,7 @@ Atom icon for OS X Yosemite
 The icon is thoroughly designed to feel native on Yosemite:
 
 <p align="center">
-<img src="/img/dock.png" width="728" height="150">
+<img src="/img/dock.png" width="728">
 </p>
 
 And is beautifully detailed:
