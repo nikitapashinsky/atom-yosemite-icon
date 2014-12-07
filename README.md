@@ -25,4 +25,4 @@ That's it! Enjoy your new icon.
 
 ---
 
-Made with awesome [Generate ICNS](https://github.com/NathanRutzky/Generate-ICNS) plugin by [Nathan Rutzky](https://github.com/NathanRutzky).
+Made in Sketch with the help of awesome [Generate ICNS](https://github.com/NathanRutzky/Generate-ICNS) plugin by [Nathan Rutzky](https://github.com/NathanRutzky).
