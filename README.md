@@ -15,7 +15,7 @@ The icon is thoroughly designed to feel native on Yosemite:
 
 ## Install
 
-Download the [Atom.icns](https://raw.githubusercontent.com/pashinsky/atom-yosemite-icon/master/Atom.icns) file. Go to the Applications folder, right click the Atom, and select "Get info". Just drag the downloaded icon onto an old small icon in the top-left-corner. Then update icon in the Dock:
+Download the [Atom.icns](https://raw.githubusercontent.com/pashinsky/atom-yosemite-icon/master/Atom.icns) file. Go to the Applications folder, right click the Atom, and select "Get info". Just drag the downloaded icon onto an old small icon in the top-left corner. Then update icon in the Dock:
 
 ```
 killall Dock
